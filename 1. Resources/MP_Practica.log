@@ -1,0 +1,49 @@
+﻿  CurrentGame.cpp
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\ChessBoard.hpp(1,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(47,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(48,134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(48,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(65,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(119,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(119,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(126,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(126,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(126,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(131,110): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(131,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(131,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(136,110): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(136,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(136,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Piece.cpp
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Chessboard.hpp(1,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(54,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(54,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(57,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(57,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(60,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(60,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(63,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(63,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(66,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(66,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(69,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(69,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(78,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(78,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(81,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(81,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(84,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(84,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(87,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(87,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(90,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(90,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(93,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Piece.cpp(93,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  QueueMovements.cpp
+  main.cpp
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\main.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\Users\PcCom\Desktop\Segona entrega\0. C++ Code\Logic Game\Chess\Chessboard.hpp(1,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  MP_Practica.vcxproj -> C:\Users\PcCom\Desktop\Segona entrega\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
